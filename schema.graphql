@@ -1,5 +1,5 @@
 type Todo {
     id: ID!
-    title: String!
+    name: String!
     completed: Boolean!
 }
